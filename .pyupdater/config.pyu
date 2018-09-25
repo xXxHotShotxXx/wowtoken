@@ -1,0 +1,19 @@
+{
+  "config_dir": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater",
+  "app_config": {
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ],
+    "APP_NAME": "wowtoken",
+    "MAX_DOWNLOAD_RETRIES": 3,
+    "UPDATE_PATCHES": true,
+    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken",
+    "UPDATE_URLS": [
+      "https://github.com/xXxHotShotxXx/wowtoken"
+    ],
+    "COMPANY_NAME": "Hot-Gamez",
+    "PLUGIN_CONFIGS": {}
+  },
+  "count": 0,
+  "filename": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater\\config.pyu"
+}
