@@ -1,18 +1,6 @@
 {
-  "filename": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater\\config.pyu",
-  "keypack": {
-    "upload": {
-      "app_public": "l3otE9Lyif4l0cQvmFVm4gKJxMgHrAFOt9ps82/fqjA",
-      "signature": "MiaEACj1xMpSRJW7mCMmUYtTa50bWoBzSN+w+VbYo44pz8G2nI5531NfNbs9Fbcpd5zYpsUwkL6tP3SnK7I+Dg"
-    },
-    "repo": {
-      "app_private": "1GsdO2Zb4X5FPx1w3UA7sg1uYV5vifAhQnU2E5FKn1Q"
-    },
-    "client": {
-      "offline_public": "quKillhYiQQr7z4V2uKIU/jAT59NiOckR7q9aR6nRn0"
-    }
-  },
   "version_meta": {
+    "signature": "R9l8qWyRmuEGyyvmdiJ1Zx20Jlesba1J35iC27NfltPIgkgg8SI8bt/A7BP7Yy/4ofp1VyhF0jg54vg19QO8DA",
     "latest": {
       "wowtoken": {
         "stable": {
@@ -24,36 +12,49 @@
       "wowtoken": {
         "1.0.0.2.0": {
           "win": {
-            "filename": "wowtoken-win-1.0.0.zip",
+            "file_size": 10212606,
             "file_hash": "51142d2abdaec467c7e3ede71e0f6450582e2bb88bc87a1794ce221008612689",
-            "file_size": 10212606
+            "filename": "wowtoken-win-1.0.0.zip"
           }
         }
       }
     }
   },
   "config_dir": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater",
+  "filename": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater\\config.pyu",
   "count": 0,
   "py_repo_config": {
-    "patches": {},
     "package": {
       "wowtoken": {
         "win": "1.0.0.2.0"
       }
-    }
+    },
+    "patches": {}
   },
   "app_config": {
-    "COMPANY_NAME": "Hot-Gamez",
-    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken",
-    "CLIENT_CONFIG_PATH": [
-      "client_config.py"
-    ],
+    "APP_NAME": "wowtoken",
     "MAX_DOWNLOAD_RETRIES": 3,
     "UPDATE_URLS": [
       "https://github.com/xXxHotShotxXx/wowtoken"
     ],
+    "COMPANY_NAME": "Hot-Gamez",
+    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken",
     "PLUGIN_CONFIGS": {},
-    "UPDATE_PATCHES": true,
-    "APP_NAME": "wowtoken"
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ],
+    "UPDATE_PATCHES": true
+  },
+  "keypack": {
+    "client": {
+      "offline_public": "quKillhYiQQr7z4V2uKIU/jAT59NiOckR7q9aR6nRn0"
+    },
+    "upload": {
+      "signature": "MiaEACj1xMpSRJW7mCMmUYtTa50bWoBzSN+w+VbYo44pz8G2nI5531NfNbs9Fbcpd5zYpsUwkL6tP3SnK7I+Dg",
+      "app_public": "l3otE9Lyif4l0cQvmFVm4gKJxMgHrAFOt9ps82/fqjA"
+    },
+    "repo": {
+      "app_private": "1GsdO2Zb4X5FPx1w3UA7sg1uYV5vifAhQnU2E5FKn1Q"
+    }
   }
 }
