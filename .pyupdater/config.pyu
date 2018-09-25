@@ -1,6 +1,5 @@
 {
   "version_meta": {
-    "signature": "R9l8qWyRmuEGyyvmdiJ1Zx20Jlesba1J35iC27NfltPIgkgg8SI8bt/A7BP7Yy/4ofp1VyhF0jg54vg19QO8DA",
     "latest": {
       "wowtoken": {
         "stable": {
@@ -18,11 +17,9 @@
           }
         }
       }
-    }
+    },
+    "signature": "R9l8qWyRmuEGyyvmdiJ1Zx20Jlesba1J35iC27NfltPIgkgg8SI8bt/A7BP7Yy/4ofp1VyhF0jg54vg19QO8DA"
   },
-  "config_dir": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater",
-  "filename": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater\\config.pyu",
-  "count": 0,
   "py_repo_config": {
     "package": {
       "wowtoken": {
@@ -31,30 +28,37 @@
     },
     "patches": {}
   },
-  "app_config": {
-    "APP_NAME": "wowtoken",
-    "MAX_DOWNLOAD_RETRIES": 3,
-    "UPDATE_URLS": [
-      "https://github.com/xXxHotShotxXx/wowtoken"
-    ],
-    "COMPANY_NAME": "Hot-Gamez",
-    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken",
-    "PLUGIN_CONFIGS": {},
-    "CLIENT_CONFIG_PATH": [
-      "client_config.py"
-    ],
-    "UPDATE_PATCHES": true
-  },
+  "config_dir": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater",
   "keypack": {
-    "client": {
-      "offline_public": "quKillhYiQQr7z4V2uKIU/jAT59NiOckR7q9aR6nRn0"
-    },
     "upload": {
       "signature": "MiaEACj1xMpSRJW7mCMmUYtTa50bWoBzSN+w+VbYo44pz8G2nI5531NfNbs9Fbcpd5zYpsUwkL6tP3SnK7I+Dg",
       "app_public": "l3otE9Lyif4l0cQvmFVm4gKJxMgHrAFOt9ps82/fqjA"
     },
     "repo": {
       "app_private": "1GsdO2Zb4X5FPx1w3UA7sg1uYV5vifAhQnU2E5FKn1Q"
+    },
+    "client": {
+      "offline_public": "quKillhYiQQr7z4V2uKIU/jAT59NiOckR7q9aR6nRn0"
     }
-  }
+  },
+  "app_config": {
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ],
+    "MAX_DOWNLOAD_RETRIES": 3,
+    "UPDATE_URLS": [
+      "https://github.com/xXxHotShotxXx/wowtoken"
+    ],
+    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken",
+    "COMPANY_NAME": "Hot-Gamez",
+    "PLUGIN_CONFIGS": {
+      "s3-Digital Sapphire": {
+        "bucket_name": "wowtoken"
+      }
+    },
+    "APP_NAME": "wowtoken",
+    "UPDATE_PATCHES": true
+  },
+  "count": 0,
+  "filename": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater\\config.pyu"
 }
