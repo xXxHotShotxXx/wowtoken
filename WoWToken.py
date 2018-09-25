@@ -25,9 +25,7 @@ if app_update is not None:
     if downloaded is True:
         app_update.extract_restart()
 
-PYIU_AWS_ID = "7063ad4d0859a0877aa3f5fb068309406ca2ae7668150d5405a52e0eedb40cee"
-PYIU_AWS_SECRET = "4023039e-ec59-4aed-b8fa-c0489cbef083"
-PYIU_AWS_BUCKET = "wowtoken"
+
 
 
 website = 'https://us.api.battle.net/data/wow/token/?namespace=dynamic-us&locale=en_US&access_token=jnakhmxmt8rk3xna3ewqnpdw'

@@ -1,19 +1,31 @@
 {
-  "config_dir": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater",
   "app_config": {
-    "CLIENT_CONFIG_PATH": [
-      "client_config.py"
-    ],
+    "PLUGIN_CONFIGS": {},
     "APP_NAME": "wowtoken",
+    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken",
     "MAX_DOWNLOAD_RETRIES": 3,
     "UPDATE_PATCHES": true,
-    "DATA_DIR": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken",
+    "COMPANY_NAME": "Hot-Gamez",
     "UPDATE_URLS": [
       "https://github.com/xXxHotShotxXx/wowtoken"
     ],
-    "COMPANY_NAME": "Hot-Gamez",
-    "PLUGIN_CONFIGS": {}
+    "CLIENT_CONFIG_PATH": [
+      "client_config.py"
+    ]
   },
-  "count": 0,
-  "filename": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater\\config.pyu"
+  "keypack": {
+    "client": {
+      "offline_public": "quKillhYiQQr7z4V2uKIU/jAT59NiOckR7q9aR6nRn0"
+    },
+    "upload": {
+      "app_public": "l3otE9Lyif4l0cQvmFVm4gKJxMgHrAFOt9ps82/fqjA",
+      "signature": "MiaEACj1xMpSRJW7mCMmUYtTa50bWoBzSN+w+VbYo44pz8G2nI5531NfNbs9Fbcpd5zYpsUwkL6tP3SnK7I+Dg"
+    },
+    "repo": {
+      "app_private": "1GsdO2Zb4X5FPx1w3UA7sg1uYV5vifAhQnU2E5FKn1Q"
+    }
+  },
+  "config_dir": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater",
+  "filename": "C:\\Users\\Kristopher Gaming PC\\desktop\\wowtoken\\.pyupdater\\config.pyu",
+  "count": 0
 }
