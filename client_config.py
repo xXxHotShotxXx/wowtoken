@@ -5,4 +5,4 @@ class ClientConfig(object):
     COMPANY_NAME = 'Hot-Gamez'
     UPDATE_URLS = ['https://github.com/xXxHotShotxXx/wowtoken']
     MAX_DOWNLOAD_RETRIES = 3
-    PYIU_AWS_ID = '729908056386 '
+    PYIU_AWS_ID = ['729908056386']
