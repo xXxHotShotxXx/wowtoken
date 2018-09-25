@@ -24,7 +24,7 @@ if app_update is not None:
     downloaded = app_update.download()
     if downloaded is True:
         app_update.extract_restart()
-
+PYIU_AWS_ID = "7063ad4d0859a0877aa3f5fb068309406ca2ae7668150d5405a52e0eedb40cee"
 
 
 
